@@ -1,0 +1,55 @@
+
+#skills{
+  text-align: center;
+  padding-top: 4.5rem;
+}
+
+
+
+#section {
+background-color: #7ED6F9;
+}
+
+#main{
+  background-color:#7ED6F9;
+  padding-top: 4.5rem;
+}
+
+#languages {
+  text-align: center;
+}
+
+#languages-two {
+  text-align: center;
+  background-color:#7ED6F9;
+}
+
+.solution-pic {
+  width: 600px;
+  height: 500px;
+}
+
+.navlogo {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navlist {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+}
+
+h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h5 {
+  font-size: 5rem;
+}
+
+p {
+  font-family: 'Ubuntu', sans-serif;
+}
